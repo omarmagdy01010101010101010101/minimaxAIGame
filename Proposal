@@ -1,0 +1,29 @@
+Project Title
+Tic Tac Toe AI using Minimax Algorithm
+
+Introduction
+This project is a simple Tic Tac Toe game built using Python.  
+The player plays against an AI opponent.
+
+Objective
+The main goal of this project is to create an AI that can play Tic Tac Toe intelligently using the Minimax algorithm.
+
+Game Description
+- The game is played on a 3x3 grid  
+- Player uses X  
+- AI uses O  
+- The goal is to get three symbols in a row  
+
+AI Method
+The AI uses the Minimax algorithm.  
+It checks possible moves and chooses the best move to win or avoid losing.
+
+Environment
+- Single player game (Human vs AI)  
+- Fully observable  
+- Deterministic (no random moves)
+
+Tools
+- Python  
+- Tkinter for GUI  
+- Minimax Algorithm
